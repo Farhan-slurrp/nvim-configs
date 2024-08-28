@@ -1,5 +1,5 @@
 require("core.mappings")
-require("core.colorscheme")
+require("core.colors")
 require("core.options")
 require("core.plugins")
 
